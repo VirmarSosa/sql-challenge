@@ -1,7 +1,7 @@
 # sql-challenge
 
-![Uses-of-SQL](https://user-images.githubusercontent.com/118692087/221937699-bb3d8471-75b6-437f-abb0-e317fd71b8d5.png)
 
+![image_header-curso-de-sql](https://user-images.githubusercontent.com/118692087/221937956-e3cd8ce2-0d90-4c7e-b217-8eacd65853f7.jpg)
 
 It’s been two weeks since I was hired as a new data engineer at Pewlett Hackard (a fictional company). My first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
 
